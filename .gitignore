@@ -30,3 +30,5 @@ functions/export/niftii/nii_xform.m
 functions/export/niftii/nii_viewer.m
 functions/fitting/calculateECV.m
 functions/registration/registerECVimages.m
+functions/various/lipariColorMap.m
+functions/various/naviaColorMap.m
